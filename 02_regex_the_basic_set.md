@@ -2,8 +2,8 @@
 
 ## The basic set
 
-|Symbol|What does it represents?|
-|------|------------------------|
+|Symbol    |What does it represents?|
+|----------|------------------------|
 |`*`       |Zero or moreoccurrencies of the character that precedes this asterisk.|
 |`.`       |A wildcar that represents any character.|
 |`\s`      |Represents whitespace.|

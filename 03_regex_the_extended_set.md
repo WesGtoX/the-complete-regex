@@ -2,14 +2,14 @@
 
 ## The extended set
 
-|Symbol|What does it represents?|
-|------|------------------------|
-|`+`        |One or more occurrences of the character that precedes this `+` symbol.|
-|`?`        |Zero or more occurrences of the character that precedes this question mark.|
-|`pat1|pat2`|Matches either the pattern `pat1` or the pattern `pat2`.|
-|`()`       |Divides patterns into groups.|
-|`{m}`      |Exactly `m` occurrences of whatever precedes|
-|`{m,n}`    |Atleast `m` and at most `n` occurrences of whatever precedes. Only one of `m`, `n` is mandatory. Other can be left blank.|
+|Symbol      |What does it represents?|
+|------------|------------------------|
+|`+`         |One or more occurrences of the character that precedes this `+` symbol.|
+|`?`         |Zero or more occurrences of the character that precedes this question mark.|
+|`pat1\|pat2`|Matches either the pattern `pat1` or the pattern `pat2`.|
+|`()`        |Divides patterns into groups.|
+|`{m}`       |Exactly `m` occurrences of whatever precedes|
+|`{m,n}`     |Atleast `m` and at most `n` occurrences of whatever precedes. Only one of `m`, `n` is mandatory. Other can be left blank.|
 
 ---
 
